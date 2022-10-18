@@ -1,0 +1,1193 @@
+body {
+  background-color: #FFFFFF;
+}
+.all {
+  font-family: 'Poppins', 'sans-serif';
+  font-size: 14px;
+  margin-left: 231.5px;
+}
+/*---------------------------------------------------------------------*/
+.top_content {
+  width: 1440px;
+  height: 79px ;
+  display: flex;
+  font-size: 13px;
+  line-height: 14px;
+}
+.logo {
+  padding-top: 20px;
+  padding-left: 136px;
+  width: 128px;
+}
+.menu_list {
+  display: flex;
+}
+.menu_item_a,
+.main_menu_a,
+.button_1_a,
+.button_2_a {
+  text-decoration: none;
+  color: #444444;
+  font-size: 14px;
+  line-height: 14px;
+}
+.menu_item_1 {
+  padding-left: 252px;
+  padding-top: 30px;
+}
+.menu_item_2 {
+  padding-left: 28px;
+  padding-top: 30px;
+}
+.main_menu {
+  padding-left: 34px;
+  padding-top: 29px;
+}
+.main_menu_a {
+  color: #222222;
+  line-height: 18px;
+}
+.bg_button_1 {
+  height: 44px;
+  width: 143px;
+  margin-left: 40px;
+  margin-top: 18px;
+  background-color: #575445;
+  border-radius: 6px;
+}
+.button_1 {
+  margin-top: 10px;
+  margin-left: 18px;
+}
+.button_1_a {
+  font-size: 16px;
+  line-height: 22px;
+  height: 23px;
+  width: 107px;
+  color: #ffffff;
+}
+.bg_button_2 {
+  height: 44px;
+  width: 125px;
+  margin-left: 20px;
+  margin-top: 18px;
+  background-color: #575445;
+  border-radius: 6px;
+}
+.button_2 {
+  margin-top: 10px;
+  margin-left: 18px;
+}
+.button_2_a {
+  font-size: 16px;
+  line-height: 22px;
+  height: 23px;
+  width: 36px;
+  color: #ffffff;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+/*=====================================================================*/
+.content_1 {
+  z-index: 1;
+}
+.main_img {
+  position: relative;
+}
+.out_exp {
+  position: absolute;
+  top: 297px;
+  margin-left: 136px;
+  color: #E6B939;
+  line-height: 19.6px;
+  letter-spacing: 2px;
+  width: 215px;
+  height: 20px;
+}
+.gear_for {
+  position: absolute;
+  top: 316px;
+  margin-left: 136px;
+  color: #FFFFFF;
+  line-height: 58px;
+  font-family: 'Roboto', 'sans-serif';
+  font-size: 48px;
+  width: 416px;
+  height: 116px;
+}
+.lorem_isp {
+  position: absolute;
+  top: 441px;
+  margin-left: 136px;
+  color: #CACCD1;
+  line-height: 25px;
+  width: 495px;
+  height: 51px;
+  font-size: 17px;
+}
+/*---------------------------------------------------------------------*/
+.circles_decoration {
+  position: absolute;
+  top: 691px;
+  z-index: 2;
+  margin-left: 587px;
+}
+/*=====================================================================*/
+.content_2{
+  margin-left: 136px;
+  margin-top: 100px;
+  width: 1168px;
+  height: 577px;
+  display: flex;
+  flex-direction: column;
+} 
+.img_people {
+  position: absolute;
+  top: 819px;
+}
+.who_are_we {
+  margin-left: 680px;
+  margin-top: 174px;
+  width: 119px;
+  height: 20px;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  color: #E6B939;
+}
+.a_bit_about {
+  margin-left: 680px;
+  margin-top: -1px;
+  width: 263px;
+  height: 44px;
+  font-size: 36px;
+  line-height: 43px;
+  color: #575445;
+}
+.we_are_an {
+  margin-left: 680px;
+  margin-top: 8px;
+  width: 384px;
+  height: 116px;
+  font-size: 16px;
+  line-height: 19px;
+}
+.read_more {
+  width: 85px;
+  font-size: 15px;
+  line-height: 21px;
+}
+.read_more_a {
+  color: #575445;
+  text-decoration: none;
+}
+.for_arrow {
+  margin-left: 680px;
+  display: flex;
+  width: 109px;
+  height: 21px;
+  margin-top: 19.5px;
+}
+.arrow {
+  margin-top: 4.5px;
+  margin-left: 4px;
+}
+/*---------------------------------------------------------------------*/
+.circles_decoration_2 {
+  position: absolute;
+  margin-top: -128px;
+  margin-left: 11px;
+}
+/*=====================================================================*/
+.content_3 {
+  margin-top: 100px;
+  background-color: #FAFAFC;
+  width: 1440px;
+  height: 900px;
+  z-index: 2;
+  position: relative;
+  padding-top: 0.1px;
+}
+/*---------------------------------------------------------------------*/
+.circles_decoration_3 {
+  position: absolute;
+  margin-left: 969.6px;
+}
+.circles_decoration_4 {
+  position: absolute;
+  margin-top: 465.45px;
+}
+.texts_3 {
+  margin-top: 100px;
+  margin-left: 420px;
+  width: 600px;
+  height: 129px;
+}
+.our_promise {
+  margin-top: 1px;
+  margin-left: 241px;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  color: #E6B939;
+  text-transform: uppercase;
+}
+.set_the_bar {
+  margin-left: 5px;
+  width: 591px;
+  height: 44px;
+  font-size: 36px;
+  line-height: 43px;
+  text-align: center;
+  color: #575445;
+}
+.morbi_neque_ex {
+  margin-top: 5px;
+  margin-left: 31px;
+  width: 538px;
+  height: 58px;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #575445;
+}
+/*---------------------------------------------------------------------*/
+.cards_3 {
+  width: 1168px;
+  height: 551px;
+  margin-top: 20px;
+  margin-left: 136px;
+  color: #575445;
+}
+.card_sustainable_sourcing,
+.card_lifetime_warranty,
+.card_all-terrain_tested,
+.card_premium_materials,
+.card_designed_by_you,
+.card_quality_assured {
+  width: 388.66px;
+  height: 275px;
+}
+.cards_top_3 {
+  display: flex;
+}
+.cards_bottom_3 {
+  display: flex;
+}
+/*---------------------------------------------------------------------*/
+.circle_3 {
+  width: 64px;
+  height: 64px;
+  background-color: #575445;
+  border-radius: 32px;
+  padding-top: 0.1px;
+}
+.icon_and_circle_3 {
+  margin-top: 50px;
+  margin-left: 162px;
+}
+.text_lorem_ispum_1 {
+  margin-top: 9px;
+  margin-left: 51px;
+  width: 287px;
+  height: 59px;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+}
+.text_sustainable_sourcing,
+.text_lifetime_warranty,
+.text_all-terrain_tested,
+.text_premium_materials,
+.text_designed_by_you,
+.text_quality_assured {
+  margin-top: 10px;
+  height: 24px;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+}
+/*---------------------------------------------------------------------*/
+.icon_3_1 {
+  margin-top: 18px;
+  margin-left: 19px;
+}
+.icon_3_2 {
+  margin-top: 20px;
+  margin-left: 19px;
+}
+.icon_3_3 {
+  margin-top: 20px;
+  margin-left: 18px;
+}
+.icon_3_4 {
+  margin-top: 19px;
+  margin-left: 18px;
+}
+.icon_3_5 {
+  margin-top: 18px;
+  margin-left: 19px;
+}
+.icon_3_6 {
+  margin-top: 18px;
+  margin-left: 18px;
+}
+/*=====================================================================*/
+.content_4 {
+  width: 1440px;
+  height: 1353px;
+  padding-top: 0.1px;
+}
+.main_content_4 {
+  width: 1200px;
+  height: 1152.66px;
+  margin-top: 100px;
+  margin-left: 120px;
+  padding-top: 0.1px;
+}
+.texts_4 {
+  width: 600px;
+  height: 129px;
+  margin-left: 300px;
+  text-align: center;
+}
+.meet_the_family {
+  width: 148px;
+  height: 20px;
+  margin-top: 1px;
+  margin-left: 226px;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #E6B939;
+}
+.what_we_have {
+  width: 560px;
+  height: 44px;
+  margin-left: 20px;
+  font-size: 36px;
+  line-height: 43px;
+  color: #575445;
+  font-family: 'Roboto', 'sans-serif';
+}
+.morbi_neque_ex_2 {
+  width: 538px;
+  height: 58px;
+  margin-top: 7px;
+  margin-left: 31px;
+  font-size: 16px;
+  line-height: 19px;
+  color: #575445;
+}
+/*---------------------------------------------------------------------*/
+.cards_4 {
+  width: 1168px;
+  height: 962.66px;
+  margin-top: 20px;
+  margin-left: 16px;
+  color: #575445;
+  text-align: center;
+}
+.cards_top_4,
+.carsd_bottom_4 {
+  display: flex;
+}
+.accessories_img,
+.apparel_img,
+.climbing_gear_img,
+.headwear_img,
+.hiking_gear_img,
+.jackets_img{
+  border-radius: 10px;
+  position: relative;
+}
+.card_accessories,
+.card_apparel,
+.card_headwear,
+.card_hiking_gear {
+  margin-right: 15px;
+}
+.card_accessories,
+.card_apparel,
+.card_climbing_gear {
+  margin-bottom: 15px;
+}
+.text_accessories,
+.accessories_you_didnt,
+.view_1,
+.accessories,
+.arrow_img_1,
+
+.text_apparel,
+.check_out_our,
+.view_2,
+.apparel,
+.arrow_img_2,
+
+.text_climbing_gear,
+.climbing_gear_for,
+.view_3,
+.climbing_gear,
+.arrow_img_3,
+
+.text_headwear,
+.our_beanies_are,
+.view_4,
+.headwear,
+.arrow_img_4,
+
+.text_hiking_gear,
+.desert_or_mountain,
+.view_5,
+.hiking_gear,
+.arrow_img_5,
+
+.text_jackets,
+.ur_jackets_are,
+.view_6,
+.jackets,
+.arrow_img_6 {
+  z-index: 1;
+  position: absolute;
+}
+.card_accessories,
+.card_apparel,
+.card_climbing_gear,
+.card_headwear,
+.card_hiking_gear,
+.card_jackets {
+  width: 379px;
+  height: 473px;
+}
+.text_accessories,
+.text_apparel,
+.text_climbing_gear,
+.text_headwear,
+.text_hiking_gear,
+.text_jackets{
+  font-size: 28px;
+  line-height: 34px;
+}
+.accessories_you_didnt,
+.check_out_our,
+.climbing_gear_for,
+.our_beanies_are,
+.desert_or_mountain,
+.ur_jackets_are {
+  font-size: 16px;
+  line-height: 22px;
+}
+.view_1,
+.view_2,
+.view_3,
+.view_4,
+.view_5,
+.view_6 {
+  font-size: 14px;
+  line-height: 21px;
+  width: 35px;
+  height: 21px;
+}
+.accessories,
+.apparel,
+.climbing_gear,
+.headwear,
+.hiking_gear,
+.jackets {
+  font-size: 15px;
+  line-height: 21px;
+}
+/*---------------------------------------------------------------------*/
+.text_accessories {
+  width: 166px;
+  height: 34px;
+  margin-top: 39px;
+  margin-left: 106px;
+  font-family: 'Roboto', 'sans-serif';
+}
+.accessories_you_didnt {
+  width: 252px;
+  height: 45px;
+  margin-top: 82px;
+  margin-left: 63px;
+}
+.view_1 {
+  margin-top: 147px;
+  margin-left: 112px;
+}
+.accessories {
+  width: 93px;
+  height: 21px;
+  margin-top: 147px;
+  margin-left: 150px;
+}
+.arrow_img_1 {
+  margin-top: 153px;
+  margin-left: 247px;
+}
+/*---------------------------------------------------------------------*/
+.text_apparel {
+  width: 116px;
+  height: 34px;
+  margin-top: 39px;
+  margin-left: 131px;
+  font-family: 'Roboto', 'sans-serif';
+}
+.check_out_our {
+  width: 250px;
+  height: 45px;
+  margin-top: 82px;
+  margin-left: 64px;
+}
+.view_2 {
+  margin-top: 147px;
+  margin-left: 128px;
+}
+.apparel {
+  width: 60px;
+  height: 21px;
+  margin-top: 147px;
+  margin-left: 166px;
+}
+.arrow_img_2 {
+  margin-top: 153px;
+  margin-left: 230px;
+}
+/*---------------------------------------------------------------------*/
+.text_climbing_gear {
+  width: 212px;
+  height: 34px;
+  margin-top: 39px;
+  margin-left: 84px;
+  font-family: 'Roboto', 'sans-serif';
+}
+.climbing_gear_for {
+  width: 269px;
+  height: 23px;
+  margin-top: 82px;
+  margin-left: 58px;
+}
+.view_3 {
+  margin-top: 125px;
+  margin-left: 102px;
+}
+.climbing_gear {
+  width: 114px;
+  height: 21px;
+  margin-top: 125px;
+  margin-left: 140px;
+}
+.arrow_img_3 {
+  margin-top: 131px;
+  margin-left: 258px;
+}
+/*---------------------------------------------------------------------*/
+.text_headwear {
+  width: 147px;
+  height: 34px;
+  margin-top: 39px;
+  margin-left: 116px;
+  font-family: 'Roboto', 'sans-serif';
+}
+.our_beanies_are {
+  width: 282px;
+  height: 45px;
+  margin-top: 82px;
+  margin-left: 48px;
+}
+.view_4 {
+  margin-top: 147px;
+  margin-left: 119px;
+}
+.headwear {
+  width: 79px;
+  height: 21px;
+  margin-top: 147px;
+  margin-left: 157px;
+}
+.arrow_img_4 {
+  margin-top: 154px;
+  margin-left: 240px;
+}
+/*---------------------------------------------------------------------*/
+.text_hiking_gear {
+  width: 179px;
+  height: 34px;
+  margin-top: 39px;
+  margin-left: 99px;
+  font-family: 'Roboto', 'sans-serif';
+}
+.desert_or_mountain {
+  width: 291px;
+  height: 23px;
+  margin-top: 82px;
+  margin-left: 43px;
+}
+.view_5 {
+  margin-top: 125px;
+  margin-left: 113px;
+}
+.hiking_gear {
+  width: 90px;
+  height: 21px;
+  margin-top: 125px;
+  margin-left: 151px;
+}
+.arrow_img_5 {
+  margin-top: 132px;
+  margin-left: 245px;
+}
+/*---------------------------------------------------------------------*/
+.text_jackets {
+  width: 102px;
+  height: 34px;
+  margin-top: 39px;
+  margin-left: 139px;
+  font-family: 'Roboto', 'sans-serif';
+}
+.ur_jackets_are {
+  width: 262px;
+  height: 45px;
+  margin-top: 82px;
+  margin-left: 59px;
+}
+.view_6 {
+  margin-top: 147px;
+  margin-left: 128px;
+}
+.jackets {
+  width: 62px;
+  height: 21px;
+  margin-top: 147px;
+  margin-left: 166px;
+}
+.arrow_img_6 {
+  margin-top: 154px;
+  margin-left: 232px;
+}
+/*---------------------------------------------------------------------*/
+.bottom_text_4 {
+  display: flex;
+  width: 177px;
+  height: 21px;
+  margin-top: 20px;
+  margin-left: 511.5px;
+}
+.show_all_categories {
+  width: 153px;
+  height: 21px;
+  font-size: 15px;
+  line-height: 21px;
+  color: #575445;
+}
+.arrow_img_bottom {
+  width: 20px;
+  height: 10px;
+  margin-top: 6px;
+  margin-left: 4px;
+}
+/*=====================================================================*/
+.content_5 {
+  width: 1440px;
+  height: 600px;
+}
+.content_5_1 {
+  display: flex;
+  position: absolute;
+  z-index: 1;
+  width: 543px;
+  height: 48px;
+  background-color: #292C32;
+  margin-top: -88px;
+  margin-left: 857px;
+  border-radius: 16px;
+  color: #ffffff;
+}
+.content_5_img {
+  position: relative;
+}
+.text_5_1,
+.text_5_2,
+.text_5_3,
+.text_5_4 {
+  margin-top: 17.5px;
+  font-size: 12px;
+  line-height: 12px;
+  height: 12px;
+}
+.icon_5_1 {
+  width: 16px;
+  height: 14px;
+  margin-top: 17px;
+  margin-left: 22px;
+  margin-right: 8px;
+}
+.icon_5_2 {
+  width: 16px;
+  height: 12.7px;
+  margin-top: 17.7px;
+  margin-left: 20px;
+  margin-right: 8px;
+}
+.icon_5_3 {
+  width: 15px;
+  height: 16px;
+  margin-top: 16px;
+  margin-left: 20px;
+  margin-right: 8px;
+}
+.icon_5_4 {
+  width: 16px;
+  height: 16px;
+  margin-top: 16px;
+  margin-left: 20px;
+  margin-right: 8px;
+}
+.text_5_1 {
+  width: 82px;
+}
+.text_5_2 {
+  width: 80px;
+}
+.text_5_3 {
+  width: 60px;
+}
+.text_5_4 {
+  width: 121px;
+}
+/*=====================================================================*/
+.content_6 {
+  width: 1440px;
+  height: 393px;
+  background-color: #375C58;
+}
+.circles_decoration_6 {
+  position: absolute;
+}
+.texts_6 {
+  position: absolute;
+  width: 600px;
+  height: 129px;
+  margin-top: 100px;
+  margin-left: 420px;
+  color: #FAFAFC;
+}
+.text_6_1 {
+  width: 48px;
+  height: 20px;
+  margin-left: 276px;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.text_6_2 {
+  width: 430px;
+  height: 44px;
+  margin-left: 85px;
+  font-size: 36px;
+  line-height: 43px;
+  text-align: center;
+  color: #E6B939;
+  font-family: 'Roboto', 'sans-serif';
+}
+.text_6_3 {
+  width: 538px;
+  height: 58px;
+  margin-top: 7px;
+  margin-left: 31px;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+}
+.button_6 {
+  position: absolute;
+  width: 111px;
+  height: 44px;
+  margin-top: 249px;
+  margin-left: 665px;
+  background: #FFFFFF;
+  border-radius: 6px;
+}
+.text_button_6 {
+  width: 75px;
+  height: 23px;
+  margin-top: 10px;
+  margin-left: 18px;
+  font-size: 15px;
+  line-height: 22px;
+  text-align: center;
+  color: #575445;
+}
+/*=====================================================================*/
+.content_7 {
+  width: 1200px;
+  height: 643.5px;
+  margin-top: 100px;
+  margin-left: 120px;
+  color: #575445;
+}
+.texts_7 {
+  width: 600px;
+  height: 129px;
+  margin-left: 16px;
+}
+.text_7_1 {
+  width: 140px;
+  height: 20px;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #E6B939;
+}
+.text_7_2 {
+  width: 444px;
+  height: 44px;
+  font-size: 36px;
+  line-height: 43px;
+  font-family: 'Roboto', 'sans-serif';
+}
+.text_7_3 {
+  width: 538px;
+  height: 58px;
+  margin-top: 7px;
+  font-size: 16px;
+  line-height: 19px;
+}
+/*---------------------------------------------------------------------*/
+.cards_7 {
+  display: flex;
+  width: 1168px;
+  height: 448px;
+  margin-top: 21px;
+  margin-left: 16px;
+}
+.card_7_1,
+.card_7_2 {
+  width: 568px;
+  height: 448px;
+}
+/*---------------------------------------------------------------------*/
+.card_7_1 {
+  margin-right: 32px;
+}
+.text_card_7_1 {
+  width: 465px;
+  height: 48px;
+  margin-top: 18px;
+  font-size: 19px;
+  line-height: 24px;
+}
+.mini_card_7_1 {
+  display: flex;
+  width: 568px;
+  height: 50px;
+  margin-top: 12px;
+}
+.name_and_profession_7_1 {
+  width: 68px;
+  height: 33px;
+  margin-top: 8.5px;
+  margin-left: 12px;
+}
+.name_7_1 {
+  width: 68px;
+  height: 19px;
+  font-size: 13px;
+  line-height: 18px;
+  font-family: 'Roboto', 'sans-serif';
+}
+.profession_7_1 {
+  width: 18px;
+  height: 16px;
+  margin-top: -2px;
+  font-size: 11px;
+  line-height: 15px;
+  color: #E6B939;
+}
+.data_7_1 {
+  width: 104px;
+  height: 19px;
+  margin-top: 14.5px;
+  margin-left: 334px;
+  font-size: 13px;
+  line-height: 18px;
+  color: #6F7278;
+}
+/*---------------------------------------------------------------------*/
+.text_card_7_2 {
+  width: 381px;
+  height: 24px;
+  margin-top: 18px;
+  font-size: 19px;
+  line-height: 24px;
+}
+.mini_card_7_2 {
+  display: flex;
+  width: 568px;
+  height: 50px;
+  margin-top: 36px;
+}
+.name_and_profession_7_2 {
+  width: 112px;
+  height: 33px;
+  margin-top: 8.5px;
+  margin-left: 12px;
+}
+.name_7_2 {
+  width: 112px;
+  height: 19px;
+  font-size: 13px;
+  line-height: 18px;
+  font-family: 'Roboto', 'sans-serif';
+}
+.profession_7_2 {
+  width: 99px;
+  height: 16px;
+  margin-top: -2px;
+  font-size: 11px;
+  line-height: 15px;
+  color: #E6B939;
+}
+.data_7_2 {
+  width: 104px;
+  height: 19px;
+  margin-top: 14.5px;
+  margin-left: 290px;
+  font-size: 13px;
+  line-height: 18px;
+  color: #6F7278;
+}
+/*---------------------------------------------------------------------*/
+.text_and_arrow_7 {
+  display: flex;
+  width: 206px;
+  height: 21px;
+  margin-top: 26px;
+  margin-left: 497px;
+}
+.text_7_5 {
+  width: 182px;
+  height: 21px;
+  font-size: 15px;
+  line-height: 21px;
+}
+.arrow_7_img {
+  width: 19.2px;
+  height: 10px;
+  margin-top: 5.5px;
+  margin-left: 4px;
+}
+/*=====================================================================*/
+.content_8 {
+  width: 1440px;
+  height: 876px;
+  padding-top: 0.1px;
+}
+.circles_decoration_8_1 {
+  position: absolute;
+  margin-top: 72px;
+  margin-left: 587px;
+}
+.img_and_texts_8 {
+  display: flex;
+  width: 1168px;
+  height: 576px;
+  margin-top: 200px;
+  margin-left: 136px;
+}
+.img_8 {
+  position: relative;
+  z-index: 1;
+}
+.texts_8 {
+  width: 400px;
+  height: 270px;
+  margin-top: 153px;
+  margin-left: 104px;
+  color: #575445;
+}
+.text_8_1 {
+  width: 188px;
+  height: 20px;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #E6B939;
+}
+.text_8_2 {
+  width: 295px;
+  height: 87px;
+  font-size: 36px;
+  line-height: 43px;
+  font-family: 'Roboto', 'sans-serif';
+}
+.text_8_3 {
+  width: 384px;
+  height: 116px;
+  margin-top: 7px;
+  font-size: 16px;
+  line-height: 19px;
+}
+.text_and_arrow_8 {
+  display: flex;
+  width: 109px;
+  height: 21px;
+  margin-top: 20px;
+}
+.text_8_4 {
+  width: 85px;
+  height: 21px;
+  font-size: 15px;
+  line-height: 21px;
+}
+.arrow_8_img {
+  width: 19.2px;
+  height: 10px;
+  margin-top: 5.5px;
+  margin-left: 4px;
+}
+.circles_decoration_8_2 {
+  position: relative;
+  z-index: 1;
+  margin-left: 11px;
+  margin-top: -128px;
+}
+/*=====================================================================*/
+.texts_9_1,
+.texts_9_2,
+.texts_9_3 {
+  width: 221px;
+  height: 193px;
+  margin-right: 16px;
+}
+/*---------------------------------------------------------------------*/
+.content_9 {
+  position: relative;
+  z-index: 2;
+  width: 1440px;
+  height: 576px;
+  background-color: #575445;
+}
+.logo_9 {
+  margin-top: 100px;
+  margin-left: 640px;
+}
+.contents_9 {
+  width: 1168px;
+  height: 243px;
+  margin-top: 76px;
+  margin-left: 136px;
+  padding-top: 0.1px;
+}
+.content_9_1 {
+  display: flex;
+  width: 1168px;
+  height: 193px;
+  color: #ffffff;
+}
+/*---------------------------------------------------------------------*/
+.text_9_1_1 {
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #E6B939;
+}
+.text_9_1_2 {
+  margin-top: 9px;
+  font-size: 14px;
+  line-height: 20px;
+}
+.text_9_2_1 {
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #E6B939;
+}
+.text_9_2_2 {
+  margin-top: 9px;
+  font-size: 14px;
+  line-height: 20px;
+}
+.text_9_3_1 {
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #E6B939;
+}
+.text_9_3_2 {
+  margin-top: 9px;
+  font-size: 14px;
+  line-height: 20px;
+}
+/*---------------------------------------------------------------------*/
+.texts_and_area_9 {
+  width: 457.5px;
+  height: 139px;
+}
+.text_9_4_1 {
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #E6B939;
+}
+.text_9_4_2 {
+  margin-top: -1px;
+  font-size: 14px;
+  line-height: 20px;
+}
+/*---------------------------------------------------------------------*/
+.input_9 {
+  width: 449px;
+  height: 53px;
+  margin-top: 9px;
+  border-radius: 8px;
+  background: #F9FAFB;
+  border: 1px solid #E5E7EB;
+}
+.button_9 {
+  position: relative;
+  width: 73px;
+  height: 39px;
+  background: #575445;
+  border-radius: 10px;
+  margin-left: 372px;
+  margin-top: -48px;
+  padding-top: 0.1px;
+}
+.text_9 {
+  font-size: 14px;
+  line-height: 20px;
+  margin-top: 8px;
+  margin-left: 12px;
+}
+/*---------------------------------------------------------------------*/
+.content_9_2 {
+  display: flex;
+  width: 1168px;
+  height: 24px;
+  margin-top: 26px;
+}
+.texts_9_5_1 {
+  margin-top: 5px;
+  font-size: 14px;
+  line-height: 20px;
+  color: #FFFFFF;
+}
+.icons_9 {
+  display: flex;
+  width: 156px;
+  height: 24px;
+  margin-left: 526px;
+}
+.icon_9 {
+  margin-left: 20px;
+}
